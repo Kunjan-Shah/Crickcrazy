@@ -14,7 +14,7 @@ Project is created with:
 * Bootstrap 4
 * Sass
 
-Visit the [Youtube link](https://www.youtube.com/watch?v=EpNGcb726AI) for website walkthrough video\
+Visit the [Youtube link](https://www.youtube.com/watch?v=EpNGcb726AI) for website walkthrough video
 
 ![website image 1](/website_images/desktop_view_1.png)
 
