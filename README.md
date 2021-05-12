@@ -18,6 +18,6 @@ Project is created with:
 
 ![website image 2](/website_images/desktop_view_2.png)
 
-<p align="center">
+<div align="center">
 ![website image 3](/website_images/mobile_veiw_1.png)
-</p>
+</div>
